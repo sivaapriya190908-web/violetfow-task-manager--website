@@ -23,7 +23,9 @@ A modern and intuitive task management web application designed to help users or
 
 1.  repository  link
 
-https://github.com/sivaapriya190908-web/violetfow-task-manager--website.git 
+https://github.com/sivaapriya190908-web/violetfow-task-manager--website.git
+2. website link 
+https://bespoke-tulumba-381c14.netlify.app
 
 🎯 Purpose
 
